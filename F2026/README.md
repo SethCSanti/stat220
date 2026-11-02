@@ -58,6 +58,78 @@ belong.
 - **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb)
 - **Practice:** [Practice_Prediction.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Prediction.pdf)
 
+## Unit 5: When a Line Is Not Enough
+
+What to do when the straight line is the wrong shape. Reading a residual plot,
+fixing spread that grows with a log, putting curves and interactions in on
+purpose, decision trees and how one is built, and using a tree to find terms
+worth adding to a regression.
+
+- **Slides:** [Unit_05_When_a_Line_Is_Not_Enough.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_05_When_a_Line_Is_Not_Enough.pdf)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb)
+- **Practice:** [Practice_Trees.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Trees.pdf)
+
+## Unit 6: Inference Without a Formula
+
+Getting answers out of a model that has no coefficients and no likelihood.
+What a variable importance score measures and what it does not, why the
+default one credits a column of random digits, permutation importance, and
+the bootstrap: resampling your own data to put an interval on anything at
+all, including quantities no formula covers.
+
+- **Slides:** [Unit_06_Inference_Without_a_Formula.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_06_Inference_Without_a_Formula.pdf)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb)
+- **Practice:** [Practice_Resampling.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Resampling.pdf)
+
+## Unit 7: Probability
+
+The machinery the course has been borrowing since Unit 1. Sample spaces and the
+three rules, conditional probability and what independence actually requires,
+reversing a conditional and why a positive test is usually not what it looks
+like, expected value and variance computed off a distribution you wrote down,
+conditional expectation, and where the square root of n comes from.
+
+- **Slides:** [Unit_07_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_07_Probability.pdf)
+- **Practice:** [Practice_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Probability.pdf)
+
+## Midterm practice
+
+A full practice midterm in the same shape as the real one: 20 multiple-choice
+questions, then an analysis you work in a notebook. It uses a dataset you have
+not seen, 900 visits to an urgent care clinic.
+
+- **The exam:** [Stat_220_Midterm_Practice.pdf](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice.pdf)
+- **The analysis notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb)
+- **The data:** [clinic_visits.csv](https://drbob-richardson.github.io/stat220/F2026/data/clinic_visits.csv), 900 visits
+
+The notebook loads the data over the web, so you do not need to download it
+to work in Colab. The link is there for working offline, or for opening the
+file in something else to look at it.
+
+Work the eight tasks in the notebook. The real midterm has the same eight kinds
+of task on a different scenario.
+
+### A second practice paper, multiple choice only
+
+35 questions covering Units 1 through 5, in the same style as the practice
+guides above. No answers on this one: we will go through it together.
+
+- **The questions:** [Stat_220_Midterm_MC_Practice.pdf](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_MC_Practice.pdf)
+
+## The take-home midterm
+
+Thirteen tasks on a dataset you have not seen, 800 repairs at a bicycle shop.
+Worth 100 points. Work the tasks in order; several build on an earlier one.
+
+- **The notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb)
+- **The data:** [repair_jobs.csv](https://drbob-richardson.github.io/stat220/F2026/data/repair_jobs.csv)
+
+The notebook loads the data over the web, so in Colab there is nothing to
+download. Open in Colab, then **File > Save a copy in Drive** before you start
+typing, or your work will not be saved.
+
 ## Opening a notebook
 
 Two ways, and they produce the same file:
